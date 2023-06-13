@@ -1,5 +1,26 @@
 # NSO-IDs
 
+## Game Boy v1.2.0
+
+| Game | Id | Region / Language |
+|------|----|----------|
+| Alone in the Dark: The New Nightmare | C-7224_e | US |
+| Alone in the Dark: The New Nightmare | C-7224_p | EU |
+| Blaster Master Enemy Below | C-5022_e | US |
+| Kirby Tilt 'n' Tumble | C-0282_e | US |
+| Burger Time Deluxe | D-6005_e | US |
+| Game & Watch Gallery 3 | C-3381_e | US |
+| Gargoyle's Quest: Ghosts'N Goblins | D-7984_e | US |
+| Kirby's Dream Land | D-5661_e | US |
+| Kirby's Dream Land 2 | D-8212_e | US |
+| Metroid II: Return of Samus | D-1577_e | US |
+| Tetris | D-8484_e | US |
+| The Legend of Zelda: Link's Awakening DX | C-3996_e | US |
+| The Legend of Zelda: Link's Awakening DX | C-3996_pd | Deutsch |
+| The Legend of Zelda: Link's Awakening DX | C-3996_pf | French |
+| Super Mario Land 2: 6 Golden Coins | D-5124_e | US |
+| Wario Land 3 | C-5928_e | US |
+
 ## GBA v1.2.0
 
 | Game | Id |
